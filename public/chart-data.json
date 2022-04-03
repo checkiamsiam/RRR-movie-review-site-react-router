@@ -1,0 +1,32 @@
+[
+  {
+      "day": "pohela",
+      "screen": 100000,
+      "ticket": 500,
+      "revenue": 20000000
+  },
+  {
+      "day": "ditiyo",
+      "screen": 20000,
+      "ticket": 450,
+      "revenue": 18000000
+  },
+  {
+      "day": "tritiyo",
+      "screen": 15000,
+      "ticket": 300,
+      "revenue": 10000000
+  },
+  {
+      "day": "coturtho",
+      "screen": 2000,
+      "ticket": 200,
+      "revenue": 8000000
+  },
+  {
+      "day": "poncom",
+      "screen": 6000,
+      "ticket": 200,
+      "revenue": 10000000
+  }
+]

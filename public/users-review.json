@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Mohammad Ali",
+    "username": "itsproali",
+    "reviewed": "temon ahamori lage nai tao vfx er karone valo lagse",
+    "rating": "4 out of 5",
+    "img": "https://media-exp1.licdn.com/dms/image/C4D03AQGxn9YlGY9VJg/profile-displayphoto-shrink_200_200/0/1646797184703?e=1654732800&v=beta&t=BJFVXkNUysLqNh8NuKGPqTyHXgLF3BCmduVTWea9KyU"
+  },
+  {
+    "id": 2,
+    "name": "Akram Sakib",
+    "username": "akramsakib",
+    "reviewed": "temon valo lage nai ja bhabselm tmn kisu nai",
+    "rating": "2 out of 5",
+    "img": "https://media-exp1.licdn.com/dms/image/C4E03AQE8Jym50givng/profile-displayphoto-shrink_200_200/0/1625408347263?e=2147483647&v=beta&t=goHEdln2_BGlX02RJ2IsyiMfoulDgn9ixIwVMeEGLmE"
+  },
+  {
+    "id": 3,
+    "name": "Sheikh Siam",
+    "username": "checkiamsiam",
+    "reviewed": "as a rajamoli , ntr and caran fan ami to khrp rating dite pari na",
+    "rating": "4.5 out of 5",
+    "img": "https://media-exp1.licdn.com/dms/image/C5603AQFDOZZe0tywBw/profile-displayphoto-shrink_200_200/0/1641264578064?e=2147483647&v=beta&t=T3HecY_CQBr_kAa2JrWmfypHSQJKFqA3jNLFHKje89g"
+  },
+  {
+    "id": 4,
+    "name": "Nasimur Nasim",
+    "username": "aminasim",
+    "reviewed": "huro ki movie banaise romantic kisu nai e , need romance",
+    "rating": "1 out of 5",
+    "img": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/270051012_459775198846952_1028360751972854075_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFtuttey9yEwAinwUzwxSAoQpiD4NYw_e5CmIPg1jD97ho5o9dGdT1IhQ0ehcOMOy3QCsqOcdSqNIk1amwchw52&_nc_ohc=0IFc9qUZD5UAX-lMeRN&_nc_ht=scontent.fdac135-1.fna&oh=00_AT80qBVOeSJVc-wrXOnp-UXkc_yOGDpAnGyE1xAmXIEY8w&oe=624E52B0"
+  },
+  {
+    "id": 5,
+    "name": "Dream Girl",
+    "username": "afaltd",
+    "reviewed": "ami to poralekhay busy movie kmne dehi , no movies",
+    "rating": "no ratings",
+    "img": "https://i.pinimg.com/564x/ab/49/c0/ab49c099a0995e7939600e608b2dde82.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mokles Vai",
+    "username": "ohomokles",
+    "reviewed": "sei movie silo amn movie ami jindegite dehi nai vai fatafati",
+    "rating": "5 out of 5",
+    "img": "https://i.pinimg.com/564x/c8/1a/c5/c81ac51c21863b1c9251159b1ee59342.jpg"
+  }
+]

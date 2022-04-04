@@ -4,47 +4,62 @@
     "name": "Mohammad Ali",
     "username": "itsproali",
     "reviewed": "temon ahamori lage nai tao vfx er karone valo lagse",
-    "rating": "4 out of 5",
-    "img": "https://media-exp1.licdn.com/dms/image/C4D03AQGxn9YlGY9VJg/profile-displayphoto-shrink_200_200/0/1646797184703?e=1654732800&v=beta&t=BJFVXkNUysLqNh8NuKGPqTyHXgLF3BCmduVTWea9KyU"
+    "rating": 4,
+    "img": "https://media-exp1.licdn.com/dms/image/C4D03AQGxn9YlGY9VJg/profile-displayphoto-shrink_200_200/0/1646797184703?e=1654732800&v=beta&t=BJFVXkNUysLqNh8NuKGPqTyHXgLF3BCmduVTWea9KyU",
+    "date": "2 day ago"
   },
   {
     "id": 2,
     "name": "Akram Sakib",
     "username": "akramsakib",
     "reviewed": "temon valo lage nai ja bhabselm tmn kisu nai",
-    "rating": "2 out of 5",
-    "img": "https://media-exp1.licdn.com/dms/image/C4E03AQE8Jym50givng/profile-displayphoto-shrink_200_200/0/1625408347263?e=2147483647&v=beta&t=goHEdln2_BGlX02RJ2IsyiMfoulDgn9ixIwVMeEGLmE"
+    "rating": 2,
+    "img": "https://media-exp1.licdn.com/dms/image/C4E03AQE8Jym50givng/profile-displayphoto-shrink_200_200/0/1625408347263?e=2147483647&v=beta&t=goHEdln2_BGlX02RJ2IsyiMfoulDgn9ixIwVMeEGLmE",
+    "date": "3 day ago"
   },
   {
     "id": 3,
     "name": "Sheikh Siam",
     "username": "checkiamsiam",
     "reviewed": "as a rajamoli , ntr and caran fan ami to khrp rating dite pari na",
-    "rating": "4.5 out of 5",
-    "img": "https://media-exp1.licdn.com/dms/image/C5603AQFDOZZe0tywBw/profile-displayphoto-shrink_200_200/0/1641264578064?e=2147483647&v=beta&t=T3HecY_CQBr_kAa2JrWmfypHSQJKFqA3jNLFHKje89g"
+    "rating": 4.5,
+    "img": "https://media-exp1.licdn.com/dms/image/C5603AQFDOZZe0tywBw/profile-displayphoto-shrink_200_200/0/1641264578064?e=2147483647&v=beta&t=T3HecY_CQBr_kAa2JrWmfypHSQJKFqA3jNLFHKje89g",
+    "date": "1 day ago"
   },
   {
     "id": 4,
     "name": "Nasimur Nasim",
     "username": "aminasim",
     "reviewed": "huro ki movie banaise romantic kisu nai e , need romance",
-    "rating": "1 out of 5",
-    "img": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/270051012_459775198846952_1028360751972854075_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFtuttey9yEwAinwUzwxSAoQpiD4NYw_e5CmIPg1jD97ho5o9dGdT1IhQ0ehcOMOy3QCsqOcdSqNIk1amwchw52&_nc_ohc=0IFc9qUZD5UAX-lMeRN&_nc_ht=scontent.fdac135-1.fna&oh=00_AT80qBVOeSJVc-wrXOnp-UXkc_yOGDpAnGyE1xAmXIEY8w&oe=624E52B0"
+    "rating": 1,
+    "img": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/270051012_459775198846952_1028360751972854075_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFtuttey9yEwAinwUzwxSAoQpiD4NYw_e5CmIPg1jD97ho5o9dGdT1IhQ0ehcOMOy3QCsqOcdSqNIk1amwchw52&_nc_ohc=0IFc9qUZD5UAX-lMeRN&_nc_ht=scontent.fdac135-1.fna&oh=00_AT80qBVOeSJVc-wrXOnp-UXkc_yOGDpAnGyE1xAmXIEY8w&oe=624E52B0",
+    "date": "4 day ago"
   },
   {
     "id": 5,
     "name": "Dream Girl",
     "username": "afaltd",
     "reviewed": "ami to poralekhay busy movie kmne dehi , no movies",
-    "rating": "no ratings",
-    "img": "https://i.pinimg.com/564x/ab/49/c0/ab49c099a0995e7939600e608b2dde82.jpg"
+    "rating": 0,
+    "img": "https://i.pinimg.com/564x/ab/49/c0/ab49c099a0995e7939600e608b2dde82.jpg",
+    "date": "5 day ago"
   },
   {
     "id": 6,
     "name": "Mokles Vai",
     "username": "ohomokles",
     "reviewed": "sei movie silo amn movie ami jindegite dehi nai vai fatafati",
-    "rating": "5 out of 5",
-    "img": "https://i.pinimg.com/564x/c8/1a/c5/c81ac51c21863b1c9251159b1ee59342.jpg"
+    "rating": 5,
+    "img": "https://i.pinimg.com/564x/c8/1a/c5/c81ac51c21863b1c9251159b1ee59342.jpg",
+    "date": "10 hour ago"
+  },
+  {
+    "id": 7,
+    "name": "Elsa Jean",
+    "username": "jeanelsa",
+    "reviewed": "totally amaizing , it was my first hinde movie what i saw in my country multiplex, xoss",
+    "rating": 3.5,
+    "img": "data:image/jpeg;base64,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",
+    "date":"1 week ago"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-      "day": "pohela",
+      "day": "Day 1",
       "screen": 100000,
       "ticket": 500,
-      "revenue": 20000000
+      "revenue": 200
   },
   {
-      "day": "ditiyo",
+      "day": "Day 2",
       "screen": 20000,
       "ticket": 450,
-      "revenue": 18000000
+      "revenue": 180
   },
   {
-      "day": "tritiyo",
+      "day": "Day 3",
       "screen": 15000,
       "ticket": 300,
-      "revenue": 10000000
+      "revenue": 100
   },
   {
-      "day": "coturtho",
+      "day": "Day 4",
       "screen": 2000,
       "ticket": 200,
-      "revenue": 8000000
+      "revenue": 80
   },
   {
-      "day": "poncom",
+      "day": "Day 5",
       "screen": 6000,
       "ticket": 200,
-      "revenue": 10000000
+      "revenue": 100
   }
 ]

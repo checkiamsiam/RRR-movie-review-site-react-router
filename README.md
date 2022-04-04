@@ -2,7 +2,7 @@
 
 # checkout peoples review about the film RRR
 
-Live site link: [https://movie-review-checkiamsiam.netlify.app/blogs](https://movie-review-checkiamsiam.netlify.app/blogs).
+Live site link: [https://movie-review-checkiamsiam.netlify.app](https://movie-review-checkiamsiam.netlify.app).
 
 # Some Code information about this website
 
